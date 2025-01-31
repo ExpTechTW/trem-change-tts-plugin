@@ -1,0 +1,21 @@
+{
+  "timestamp": 1738283219371,
+  "version": "1.0.0",
+  "fileHashes": {
+    "index.js": "b5eed1cfcfe4661685e58fc10f1398b5afb5fe7af87a18ce473a357aa6553b87",
+    "info.json": "13e5133f65bf5f476b3b3cb79333a7686ef1accb2fe9b9ec875e53e9916ea94b",
+    "node_modules/speak-tts/demo/build/demo.bundle.js": "2b68839c52a59dde14273cfc246a7f6c8aa02763ff6882ff563f9b364f3780b8",
+    "node_modules/speak-tts/demo/build/index.html": "76bf9e622a17f48cb73cb19103ff55fdf370f13fe485e5c926dedf45066ddb72",
+    "node_modules/speak-tts/demo/demo.js": "d415ba63e656b44a0a74f573ceb77b1d340a0a11317f1470e404b9feeb081bbe",
+    "node_modules/speak-tts/demo/dist/demo.bundle.js": "8a224853ab0c08e92a91f4763c63055c54116df62cfb9d6295a2d778d9a87f56",
+    "node_modules/speak-tts/demo/dist/index.html": "ec491077a46503b92449c95a2d97b13d0046716479a1db6dcec163418d5727bb",
+    "node_modules/speak-tts/lib/ios.js": "c17c2a361a4e88da82214daa2fb5c578d2a9a48a5744e5c3cee5294419f83720",
+    "node_modules/speak-tts/lib/speak-tts.js": "353409af948b742df2c0ffce0dc4f34e73d0a87fb375bf96247bfa7c2ec31ad8",
+    "node_modules/speak-tts/lib/utils.js": "4ee01e6ea3aaf7653e9cab77e0deb9e51c5e393741730ad5984a668a7e7445dd",
+    "node_modules/speak-tts/webpack.config.js": "9d1ef301ab015e83afa13652290ccaf5a46c3050bf8a4d9f74080b45715caec7",
+    "node_modules/speak-tts/webpack.production.config.js": "fcc5d19b9cfa1e570da0f5c70c5c523c063ec3ec4ddb3a14f12b2927a6198879",
+    "resource/default.yml": "42130d60a6fc01ca595ee91f3fa76e6514d0be03790d08dafe0be31d0b5d8c51"
+  },
+  "signature": "dWo1WnZLUJfV/qL71lS/kpeIgg5wsSLtYkMK6MnhnZEjL13/vDeZp9ym9ybO597ni7eQ6gcHGMlf/SexzXSiuNE8AaKMQfh4xTy7RspbRsgDkaYc4Gf4HGjY2MygW80asw4jC6mwppifKvJFJIHdBTYhA1wSosI+8a81FN/d/F7VL4kh13/sFjf4viQ2XJsPPFMhBeXBR69TFOQWdbO6PWd4Y+WlrvsMxdd/VmMv2rC9uBsvaQZiELs4LfECkbwzs+NDOlOVidN34SUPOnFE842fK/4g5Ifd8kVYOTzInCEkuaVKnvWA754wpEPW92Xfv6R4O2Na18lm/El3loYR+Q==",
+  "keyId": "official"
+}
