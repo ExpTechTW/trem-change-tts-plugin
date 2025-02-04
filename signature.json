@@ -1,9 +1,11 @@
 {
-  "timestamp": 1738283832583,
-  "version": "1.0.0",
+  "timestamp": 1738640914357,
+  "version": "1.1.0",
   "fileHashes": {
-    "index.js": "b5eed1cfcfe4661685e58fc10f1398b5afb5fe7af87a18ce473a357aa6553b87",
-    "info.json": "e7c8c211f7cc535df598961048d12ae27d88779613cf765388cf1fa2a8136b74",
+    "index.js": "3752ae7ce2873dd3f69809bd7fb2ef9957cd67eda2a75d0923b31f87853b3098",
+    "info.json": "a512c802b51fd151a5bfabbecca2ab11634ad8b7a0e4fe12f2d6f9a7f8bb16c0",
+    "node_modules/.package-lock.json": "2b5e2aa35ca2e053fe595588dc9b79bb08bee6be55397df9998c81605e9efd33",
+    "node_modules/speak-tts/.babelrc": "ed712c2c75df88af3db96015f10076d9a27f3a9382d420195ec8b626a64f4eb9",
     "node_modules/speak-tts/demo/build/demo.bundle.js": "2b68839c52a59dde14273cfc246a7f6c8aa02763ff6882ff563f9b364f3780b8",
     "node_modules/speak-tts/demo/build/index.html": "76bf9e622a17f48cb73cb19103ff55fdf370f13fe485e5c926dedf45066ddb72",
     "node_modules/speak-tts/demo/demo.js": "d415ba63e656b44a0a74f573ceb77b1d340a0a11317f1470e404b9feeb081bbe",
@@ -12,10 +14,12 @@
     "node_modules/speak-tts/lib/ios.js": "c17c2a361a4e88da82214daa2fb5c578d2a9a48a5744e5c3cee5294419f83720",
     "node_modules/speak-tts/lib/speak-tts.js": "353409af948b742df2c0ffce0dc4f34e73d0a87fb375bf96247bfa7c2ec31ad8",
     "node_modules/speak-tts/lib/utils.js": "4ee01e6ea3aaf7653e9cab77e0deb9e51c5e393741730ad5984a668a7e7445dd",
+    "node_modules/speak-tts/package.json": "e81e0b6706dc984e0e1e818b6641c25adecda39cc1336df5f083b54eee5e02da",
+    "node_modules/speak-tts/README.md": "4738d9e590ac20c8dac3825d7e61422ca4f99e518d5a46b6c7aa24c973955e87",
     "node_modules/speak-tts/webpack.config.js": "9d1ef301ab015e83afa13652290ccaf5a46c3050bf8a4d9f74080b45715caec7",
     "node_modules/speak-tts/webpack.production.config.js": "fcc5d19b9cfa1e570da0f5c70c5c523c063ec3ec4ddb3a14f12b2927a6198879",
-    "resource/default.yml": "42130d60a6fc01ca595ee91f3fa76e6514d0be03790d08dafe0be31d0b5d8c51"
+    "resource/default.yml": "b2147f919c9f56c1a9354ce11515c39b208f9ba7dc7a28f6bd8aa1c9cfd35b9e"
   },
-  "signature": "pGyJsY8qsWFGbwy77PPZ4RkbqXtTVKCx5BMZa1/mlwQzdNhbagv5bOXgXilumxJdHjB+qDMSitM8tq5IxWuQdJ6htvzYksegTwXzwCqpilYzJXVqUdD+/IgLW9yraNMkGjZT2MeWj8jEc5eMje5umWEVpa9MoGhzKmaGFmeltR0ThJvhGHdNHnVJ8iEAjQ4IggSdxEd8p+fKF/UuG+JAHq69/ESV7DFV23wRB5mIcsQO3BNvhFSoqjHxuQTMdOCthWRMrNHxll/HB4TD81Q1aeDv0cVK5gb+9iFLkREm9D8AFfhhXyW10bELm1M7o8u5SLLvVmjmlVvJH/5jsT+VKA==",
+  "signature": "dmkP/EekAfB0ZPeKypGZX77ceRpD4yNqTFnnulkpoJAmytnVgGMYrOi4aDX4zCe2r/q8d8LxEQc7Zb5ABIR5U0aJUu3PNlSnrw2Mf/xAI/lMXXoeyP3T6jrb0PN9RPdgOvw7f9ikWgUdNLJKoRgTIemyY5a3Nq/IQ2dQDXZuhRrZGOLAAk2k/YahAqIR+E4GJ5yqFNf6QsAqqK77gzuPEzBt1HXDB3csCQQT2U5B/PzMsgyY66NSg2tFzWc3ECnScYnG+0LDf/Ij24s7nsYYHUIa8CufX0fZ5nJmYRV78rU4oXLd5DTt7Cm40cDSc+ekFw4tfHTi/5qy1RZL7ZwHgg==",
   "keyId": "official"
 }
