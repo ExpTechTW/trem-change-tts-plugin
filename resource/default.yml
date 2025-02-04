@@ -2,5 +2,7 @@
 #1：'Microsoft Yating - Chinese (Traditional, Taiwan)'
 #2：'Microsoft Zhiwei - Chinese (Traditional, Taiwan)'
 
-ver: 1
+ver: 2
+
+speed: 1
 tts: 0
