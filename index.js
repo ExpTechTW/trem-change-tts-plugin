@@ -55,8 +55,9 @@ class Plugin {
     if (speech) {
       const ttsConfig = this.#config.getConfig();
       const selectedVoice = voiceList[ttsConfig.tts];
+      if (ttsConfig.speed) speech.setRate(ttsConfig.speed);
       if (selectedVoice) speech.setVoice(selectedVoice);
-      logger.info(`Change voice to --> ${selectedVoice}`);
+      logger.info(`\nChange TTS Speed To --> ${ttsConfig.speed}\nChange TTS Voice To --> ${selectedVoice}`);
     }
   }
 }
