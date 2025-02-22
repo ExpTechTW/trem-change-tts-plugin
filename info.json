@@ -1,6 +1,6 @@
 {
   "name": "change-tts",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": {
     "zh_tw": "設定 TREM-Lite TTS 音色、速度",
     "zh-Hant": "設定 TREM-Lite TTS 音色、速度"
@@ -9,7 +9,7 @@
     "bamboo0403"
   ],
   "dependencies": {
-    "trem": ">=3.1.1-rc.2",
+    "trem": ">=3.1.1",
     "config": ">=1.0.4"
   },
   "resources": [
