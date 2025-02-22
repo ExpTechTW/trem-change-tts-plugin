@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<title>change-tts Warring Message</title>
+<html>
+<head>
+    <style>
+        body {
+            background-color: #202020;
+            color: white;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            overflow: hidden;
+            user-select: none;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+        }
+        .warning-message {
+            text-align: center;
+            animation: warningFlash 1s infinite;
+        }
+        @keyframes warningFlash {
+            0% { background-color: transparent; }
+            50% { background-color: #ff0000; }
+            100% { background-color: transparent; }
+        }
+    </style>
+</head>
+<body>  
+    <div class="warning-message" style="font-size: 40px;">
+        此擴充不能與 disable-tts 同時啟用<br>
+        使用此擴充前 請先關閉 disable-tts
+    </div>
+</body>
+</html>

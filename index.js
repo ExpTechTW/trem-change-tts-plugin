@@ -1,4 +1,6 @@
 const config = require("../config/config");
+const {ipcRenderer} = require("electron");
+const enabledPlugins = localStorage.getItem('enabled-plugins')
 
 class Plugin {
   static instance = null;
@@ -24,6 +26,27 @@ class Plugin {
 
   onLoad() {
     const { TREM, logger , info , utils} = this.#ctx;
+    JSON.parse(enabledPlugins).forEach((item)=>{
+      if(item == 'disable-tts'){
+        ipcRenderer.send("open-plugin-window", {
+          pluginId: "change-tts",
+          htmlPath: `${info.pluginDir}/change-tts/web/warring.html`,
+          options: {
+            width          : 630,
+            height         : 140,
+            frame          : true,
+            resizable      : false,
+            maximized      : true,
+            alwaysOnTop    : true,
+            webPreferences : {
+              nodeIntegration  : true,
+              contextIsolation : false
+            },
+            title: "warning",
+          },
+        });
+      }
+    })
 
     const defaultDir = utils.path.join(info.pluginDir,"./change-tts/resource/default.yml");
     const configDir = utils.path.join(info.pluginDir, "./change-tts/config.yml");
