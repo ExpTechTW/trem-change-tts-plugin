@@ -1,27 +1,12 @@
 {
-  "timestamp": 1740182416306,
-  "version": "1.2.0",
+  "timestamp": 1770943357168,
+  "version": "1.3.0",
   "fileHashes": {
-    "config.yml": "6846f2b70afc69089a3fbbb35e19e234483535d407fe54c5c011840d344abc34",
-    "index.js": "6bc05763786cd071b34252b0b500da57b137b7541ffe78240cf7f5d478d122b4",
-    "info.json": "867c1365d92c62e3be5d91c5b2b7545cfae8d8c4bf4128272b0e3b78200da97e",
-    "node_modules/.package-lock.json": "2b5e2aa35ca2e053fe595588dc9b79bb08bee6be55397df9998c81605e9efd33",
-    "node_modules/speak-tts/.babelrc": "ed712c2c75df88af3db96015f10076d9a27f3a9382d420195ec8b626a64f4eb9",
-    "node_modules/speak-tts/demo/build/demo.bundle.js": "2b68839c52a59dde14273cfc246a7f6c8aa02763ff6882ff563f9b364f3780b8",
-    "node_modules/speak-tts/demo/build/index.html": "76bf9e622a17f48cb73cb19103ff55fdf370f13fe485e5c926dedf45066ddb72",
-    "node_modules/speak-tts/demo/demo.js": "d415ba63e656b44a0a74f573ceb77b1d340a0a11317f1470e404b9feeb081bbe",
-    "node_modules/speak-tts/demo/dist/demo.bundle.js": "8a224853ab0c08e92a91f4763c63055c54116df62cfb9d6295a2d778d9a87f56",
-    "node_modules/speak-tts/demo/dist/index.html": "ec491077a46503b92449c95a2d97b13d0046716479a1db6dcec163418d5727bb",
-    "node_modules/speak-tts/lib/ios.js": "c17c2a361a4e88da82214daa2fb5c578d2a9a48a5744e5c3cee5294419f83720",
-    "node_modules/speak-tts/lib/speak-tts.js": "353409af948b742df2c0ffce0dc4f34e73d0a87fb375bf96247bfa7c2ec31ad8",
-    "node_modules/speak-tts/lib/utils.js": "4ee01e6ea3aaf7653e9cab77e0deb9e51c5e393741730ad5984a668a7e7445dd",
-    "node_modules/speak-tts/package.json": "e81e0b6706dc984e0e1e818b6641c25adecda39cc1336df5f083b54eee5e02da",
-    "node_modules/speak-tts/README.md": "4738d9e590ac20c8dac3825d7e61422ca4f99e518d5a46b6c7aa24c973955e87",
-    "node_modules/speak-tts/webpack.config.js": "9d1ef301ab015e83afa13652290ccaf5a46c3050bf8a4d9f74080b45715caec7",
-    "node_modules/speak-tts/webpack.production.config.js": "fcc5d19b9cfa1e570da0f5c70c5c523c063ec3ec4ddb3a14f12b2927a6198879",
+    "index.js": "5562b3f537055276a0397de3c944f37f2bf3168c08eac01b2072be0232f6466c",
+    "info.json": "8104a20557b273b58e4cb1a85e97f6ac810d7edd8aa0e613955daa0bb030a3d4",
     "resource/default.yml": "b2147f919c9f56c1a9354ce11515c39b208f9ba7dc7a28f6bd8aa1c9cfd35b9e",
     "web/warring.html": "10aa2ac16b5f038ae1db97d5d003cfa21707bc48bee5b9af36e20616450ca1b0"
   },
-  "signature": "TYG2M8TdQVi0CmnNT1fXvEYNqEJucXzauwQQFQpQZgPz6OmS5K4gV47E105Ru14+k75ky+I06OQ7o6V0PMxMaG6p+bZGQNp0U6n4QFifeccy/vtvTI+XsjKp+R/3yUrF+HjNWxa4zv/dq5xgjk/mFsWacddJGwmlbP7FsSeQBRoglXzm+GiLevV1SAA1iwWmg4gj6REJY7jH1yFvScpztm5ri0Po2RTjBLzwvVVWy7cRapPyhRNF2/2ebZSvYR2dTZyw+AfKsx1byItpNY4ztP/jltiszqH14iHw77XWizgBZ9i3JgPZPHZ+V2VprzoP9sRQL46IE7AfmAuddZkY4A==",
+  "signature": "ISI3eZENCPfsqwoxvoU3YRvmABbyGvJbTYBDgTY44yZXUBBXxq5fKcgwKHAM+vsKiWYBH9sUjI3/84qJex2clvTmdG3fi6i9bH8P8aM4mVV2AOAx5PwksOV4qVDZsY6tnb8L9E7EXROr88S81s1aODcFlDwohY2jeiB7aGM4uvjd0QDPCsS5/JZfPZTUL2rMm9q01ts8y51SsHgnYwpuZgOoDOSm9KU+JWfKZsIulkZD2GkTQ8glMUpq2CAr4tRfFNZDICLwuY6pg8qrGUJKc5r6+39WdVNbX23Gn9Hb0aqvsNRAH5GtGGpIH2hBjMQ9vAREoXsS9A/0fc/hqHg4AA==",
   "keyId": "official"
 }
